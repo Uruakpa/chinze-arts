@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { JSX } from "react";
 import { ArrowRight, X, Play, ZoomIn, Menu } from "lucide-react";
 
 interface GalleryItem {
