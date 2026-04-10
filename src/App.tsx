@@ -174,7 +174,7 @@ export default function App() {
             <section className="relative w-full h-[85vh] flex items-center justify-center overflow-hidden bg-[#1A1A1A]">
               <div className="absolute inset-0 z-0">
                 <img
-                  src="/images/ute-osisi-2.jpg"
+                  src="/images/ute-osisi.jpg"
                   alt="Ute-Osisi installation view"
                   className="w-full h-full object-cover opacity-70 scale-105 transition-transform duration-[10s] hover:scale-100"
                 />
