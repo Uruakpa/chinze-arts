@@ -25,7 +25,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: "ute-osisi-ii",
-    title: "Ute-Osisi II (Grain Loop)",
+    title: "Solitary Pursuit (Grain Loop)",
     year: "2024",
     medium: "Silent Video Loop",
     description:
@@ -175,7 +175,7 @@ export default function App() {
             <section className="relative w-full h-[85vh] flex items-center justify-center overflow-hidden bg-[#1A1A1A]">
               <div className="absolute inset-0 z-0">
                 <img
-                  src="/images/ute-osisi-2.jpg"
+                  src="/images/ute-osisi.jpg"
                   alt="Ute-Osisi installation view"
                   className="w-full h-full object-cover opacity-70 scale-105 transition-transform duration-[10s] hover:scale-100"
                 />
@@ -513,8 +513,8 @@ export default function App() {
           Dual-column layout: Nsukka 1985 heritage on left, African Achievers Award on right.
         */}
         {activeTab === "biography" && (
-          <section className="max-w-7xl mx-auto px-6 md:px-12 py-[150px] soft-fade">
-            <h1 className="font-serif text-4xl md:text-5xl tracking-[0.2em] mb-24">
+          <section className="max-w-7xl mx-auto px-6 md:px-12 py-[100px] soft-fade">
+            <h1 className="font-serif text-4xl md:text-5xl tracking-[0.2em] mb-20">
               BIOGRAPHY
             </h1>
 
@@ -529,24 +529,43 @@ export default function App() {
                 </h2>
                 <div className="space-y-6 text-[13px] leading-relaxed font-light text-gray-600">
                   <p>
-                    Graduating from the prestigious Fine and Applied Arts
-                    Department at the University of Nigeria, Nsukka (1985),
-                    Chinze's early practice was heavily steeped in the
-                    philosophical and formal tenets of the Nsukka School.
+                    Chinze is a prolific, award-winning Nigerian artist who
+                    studied Fine and Applied Arts at the University of Nigeria
+                    Nsukka, from where she graduated in 1985 specializing in
+                    Painting. Chinze also studied Interior designing in the USA
+                    and has two post graduate diplomas (PGD) in Public Relations
+                    and Advertising and Business administration. The African
+                    Achievers Award Committee recognized her strides in art and
+                    awarded her the winner of the African Achievers Award in Art
+                    in 2018 at the House of Commons, London, UK.
                   </p>
                   <p>
-                    Studying under the masters of the Uli movement, she
-                    synthesized traditional Igbo linear forms, body painting,
-                    and wall decoration with modernist contemporary expressions.
-                    Her transition from classical mediums into the avant-garde
-                    domain of wooden mats and mixed media marked her as a
-                    pioneer of cultural modernism.
+                    Chinze specializes in painting with acrylic on jute. She
+                    uses pieces of jute or burlap to add texture to canvas,
+                    paper or velour. Her paintings are usually detailed, highly
+                    textured and rich in symbolism. Her colours are vibrant and
+                    full of energy. Chinze creates water colour paintings and
+                    expresses herself on metal and wood and making two- and
+                    three-dimensional sculptures. She also explores other ideas
+                    like making wrought iron and wooden furniture pieces.
                   </p>
                   <p>
-                    As the President of the Female Artists Association of
-                    Nigeria (FEAAN), Chinze remains a vital voice in advocating
-                    for female narrative inclusion within the global African
-                    contemporary arts ecosystem.
+                    She is also an Interior Designer, Movie Makeup Artist and a
+                    Set Designer. She is multitalented. Chinze is known for her
+                    eclectic works that are well put together.The awardwinning
+                    artist has participated in over 76 local and international
+                    art exhibitions, including New York Art Expo, European
+                    School of Economics, London, Plovdiv Bulgaria, Johannesburg,
+                    Hollywood, California, Paris, Lagos, Abuja, Enugu. Most
+                    recently, she exhibited her works at the 26th Edition of the
+                    Parallax Art Fair in Kensington, London in July 2023. Prior
+                    to that, Chinze had a sole exhibition at the European School
+                    of Economics, London titled ‘Glass Ceiling Shattered’
+                    stressing the limitations and restriction placed on the path
+                    of the ‘Girl Child’ to achieve her goals. She was
+                    acclaimedfor her unique and stimulating Exhibition,
+                    ‘Unfinished Business’ at the National Museum, Lagos which
+                    she highlighted the plight of the ‘Girl child’ in Nigeria.
                   </p>
                 </div>
               </div>
@@ -573,6 +592,18 @@ export default function App() {
                     paradigms of African female representation and bringing the
                     profound narratives of female resilience into the grand
                     halls of policy and power.
+                  </p>
+                  <p>
+                    As a female Artist in Nigeria, she has also taken part in
+                    three exhibitions organized by the Association of female
+                    Artists, FEAAN. Chinze is the current President of FEAAN.
+                    Chinze is a seasoned Artist that continues to renew her
+                    creativity and is not afraid of exploring new techniques and
+                    materials. Chinze's recent creations include
+                    transformingwood into a thin, lighter material which she
+                    called ‘Ute-Osisi’ which translates to ‘Wooden Mat’ for her
+                    wood carving art pieces. The material defines Chinze’s
+                    current works which are unusual wood works
                   </p>
                 </div>
               </div>
