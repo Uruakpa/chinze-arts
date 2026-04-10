@@ -431,7 +431,7 @@ export default function App() {
                   <div className="bg-white group hover:transform hover:-translate-y-2 transition-all duration-500">
                     <div className="aspect-[3/4] overflow-hidden bg-gray-100">
                       <img
-                        src="/images/whispers/ute-osisi-1.jpg"
+                        src="/images/whispers/ute-osisi.jpg"
                         alt="Workshop in Abuja"
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       />
@@ -456,7 +456,7 @@ export default function App() {
                   <div className="bg-white group hover:transform hover:-translate-y-2 transition-all duration-500">
                     <div className="aspect-[3/4] overflow-hidden bg-gray-100">
                       <img
-                        src="/images/whispers/ute-osisi-2.jpg"
+                        src="/images/whispers/ute-osisi.jpg"
                         alt="Osun Osogbo Cultural Festival"
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       />
@@ -481,7 +481,7 @@ export default function App() {
                   <div className="bg-white group hover:transform hover:-translate-y-2 transition-all duration-500">
                     <div className="aspect-[3/4] overflow-hidden bg-gray-100">
                       <img
-                        src="/images/whispers/ute-osisi-3.jpg"
+                        src="/images/whispers/ute-osisi.jpg"
                         alt="Orun Festival"
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       />
